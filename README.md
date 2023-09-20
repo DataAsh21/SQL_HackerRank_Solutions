@@ -22,3 +22,4 @@
 |18|	[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|	[SQL](https://www.hackerrank.com/challenges/more-than-75-marks/submissions/code/346375391)|
 |19|	[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|	[SQL](https://www.hackerrank.com/challenges/name-of-employees/submissions/code/346689383)|
 |20|	[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|	[SQL](https://www.hackerrank.com/challenges/salary-of-employees/submissions/code/346689533)|
+## Aggregation Challenges
